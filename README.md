@@ -10,7 +10,7 @@ Data: 18.06.2020 r.
 
 Imię i nazwisko studenta: Mikołaj Żochowski  
 Numer albumu: 67100
-Grupa studencka: WELE18EQ5S1
+Grupa studencka: WELE18EQ5S1 
 
 # Odpowiedzi do pytań z instrukcji
 ...
